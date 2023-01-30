@@ -23,6 +23,8 @@ ACCELERATOR = [
 ]
 ```
 ### Optical XNOR-Bitcount Based Accelerator
+The below image shows OXBNN accelerator processing unit.
+![image](https://user-images.githubusercontent.com/23030293/215595337-4279ec37-7486-4e54-8b04-b7e31fa5dce5.png)
 
 
 ### Binary_ONN_Simulator Project Structure 
