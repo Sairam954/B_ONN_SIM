@@ -122,13 +122,22 @@ The below image shows OXBNN accelerator processing unit.
 │           ROBIN_PO_All.csv
 │           Vis_Test.csv
 
-...
+```
 
 ### Simulation Result CSV
 After the simulations are completed, the results are stored in the form of a csv file containing information as shown below :
-![image](https://user-images.githubusercontent.com/23030293/215599163-ed3e34f9-83f4-4ecb-88a3-a3739a48e715.png)
 
+![image](https://user-images.githubusercontent.com/23030293/215599495-6df0e14b-3bb4-4bd0-903d-8f9a3c619699.png)
 
 The performance metrics are calculated by using PeformanceMetrics/metrics.py, currently it provides the above values. Users can change the file to reflect their accelerator components energy and power paraments.  
+
+### Evaluation Visualization
+The visualization.py can take the generated simulation csv and plot barplot for the results. It also prints useful information in the console about the top two accelerators. 
+![image](https://user-images.githubusercontent.com/23030293/215608219-d1414271-1b1b-4c63-ab6b-b8283eb719b2.png)
+
+
+
+
+
 
 
