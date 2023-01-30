@@ -22,13 +22,11 @@ ACCELERATOR = [
 }
 ]
 ```
+### Optical XNOR-Bitcount Based Accelerator
+
 
 ### Binary_ONN_Simulator Project Structure 
-
-   
-
-C:.
-│   .gitignore
+``` bash
 │   constants.py
 │   main.py - *Runs the simulator and allows users to change the inputs according to the accelerator* 
 │   README.md
@@ -117,4 +115,4 @@ C:.
 │           ROBIN_PO_All.csv
 │           Vis_Test.csv
 
-
+...
