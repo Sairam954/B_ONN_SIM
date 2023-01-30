@@ -1,6 +1,8 @@
-# Binary_ONN_Simulator
-B_ONNSIM (BINARY Optical Neural Network Simulator)
 
+#B_ONN_SIM (BINARY Optical Neural Network Simulator)
+
+
+# Binary_ONN_Simulator Project Structure 
 ``` bash
 C:.
 │   .gitignore
