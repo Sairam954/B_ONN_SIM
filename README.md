@@ -133,7 +133,8 @@ The performance metrics are calculated by using PeformanceMetrics/metrics.py, cu
 
 ### Evaluation Visualization
 The visualization.py can take the generated simulation csv and plot barplot for the results. It also prints useful information in the console about the top two accelerators. 
-![image](https://user-images.githubusercontent.com/23030293/215608219-d1414271-1b1b-4c63-ab6b-b8283eb719b2.png)
+![image](https://user-images.githubusercontent.com/23030293/215608379-2d0a6222-b4d0-4891-a08e-9257256aa0a4.png)
+
 
 
 
