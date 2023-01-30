@@ -1,6 +1,24 @@
 
 # B_ONN_SIM (BINARY Optical Neural Network Simulator)
 
+This is a transaction-level, cycle-true python-based simulator for evaluation of Binary optical neural networks for various Binary Neural Network models.  
+
+### Accelerator Configuration 
+
+The accelerator configuration can be provided in main.py file. The configuration dictionary looks like below:
+``` bash
+{
+    ELEMENT_SIZE: 19, 
+    ELEMENT_COUNT: 19,
+    UNITS_COUNT: 224,
+    RECONFIG: [],
+    VDP_TYPE: "AMM",
+    NAME: "OXBNN_50",
+    ACC_TYPE: "ONNA",
+    PRECISION: 1,
+    BITRATE: 50,
+}
+```
 
 ### Binary_ONN_Simulator Project Structure 
 ``` bash
