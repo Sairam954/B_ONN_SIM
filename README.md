@@ -127,6 +127,7 @@ The below image shows OXBNN accelerator processing unit.
 ### Simulation Result CSV
 After the simulations are completed, the results are stored in the form of a csv file containing information as shown below :
 ![image](https://user-images.githubusercontent.com/23030293/215598277-5fbdd7e5-95e9-4f2c-927c-fa0080fcf189.png)
- The performance metrics are calculated by using PeformanceMetrics/metrics.py, currently it provides the above values. Users can change the file to reflect their accelerator components energy and power paraments.  
+
+The performance metrics are calculated by using PeformanceMetrics/metrics.py, currently it provides the above values. Users can change the file to reflect their accelerator components energy and power paraments.  
 
 
