@@ -135,6 +135,17 @@ The performance metrics are calculated by using PeformanceMetrics/metrics.py, cu
 The visualization.py can take the generated simulation csv and plot barplot for the results. It also prints useful information in the console about the top two accelerators. 
 ![image](https://user-images.githubusercontent.com/23030293/215608379-2d0a6222-b4d0-4891-a08e-9257256aa0a4.png)
 
+```bash
+The accelerator OXBNN_50 achieves 4.158922762163461x times better fps than LIGHTBULB
+The accelerator OXBNN_50 achieves 8.384277528829282x times better fps than ROBIN_PO
+The accelerator OXBNN_50 achieves 2.547075858401049x times better fps than OXBNN_5
+The accelerator OXBNN_50 achieves 1.0x times better fps than OXBNN_50
+Details of second best accelerator
+The accelerator OXBNN_5 achieves 1.632822496607645x times better fps than LIGHTBULB
+The accelerator OXBNN_5 achieves 3.29172666812232x times better fps than ROBIN_PO
+The accelerator OXBNN_5 achieves 1.0x times better fps than OXBNN_5
+
+```
 
 
 
