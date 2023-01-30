@@ -4,6 +4,11 @@
 
 This is a transaction-level, cycle-true python-based simulator for evaluation of Binary optical neural networks for various Binary Neural Network models.  
 
+### Installation and Execution
+
+    git clone https://github.com/Sairam954/B_ONN_SIM.git
+    python main.py
+
 ### Accelerator Configuration 
 
 The accelerator configuration can be provided in main.py file. The configuration dictionary looks like below:
