@@ -1,0 +1,12 @@
+ELEMENT_SIZE = 'element_size'
+ELEMENT_COUNT = 'element_count'
+UNITS_COUNT = 'units_count'
+RECONFIG = "reconfig"
+ZERO = 0
+LAST = -1 
+ADDER = "adder"
+POOL = "pool"
+LAYERS_SUPPORTED = ["convolution","inner_product"]
+ACC_TYPE ="accelerator_type" 
+PRECISION = "precision"
+BITRATE = "bitrate"
