@@ -27,7 +27,7 @@ Efficient Inference of Binary Neural Networks},
 ```
 
 ### Video Tutorial
-[https://drive.google.com/file/d/1zyho10si1KASeOk_zuDW2v8DLXz-D04M/view?usp=share_link](https://youtu.be/X6yifdEB7xU)
+https://www.youtube.com/watch?v=X6yifdEB7xU
 
 ### Accelerator Configuration 
 
