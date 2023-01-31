@@ -9,6 +9,9 @@ This is a transaction-level, cycle-true python-based simulator for evaluation of
     git clone https://github.com/Sairam954/B_ONN_SIM.git
     python main.py
 
+### Video Tutorial
+https://drive.google.com/file/d/1zyho10si1KASeOk_zuDW2v8DLXz-D04M/view?usp=share_link
+
 ### Accelerator Configuration 
 
 The accelerator configuration can be provided in main.py file. The configuration dictionary looks like below:
