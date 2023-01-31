@@ -148,8 +148,19 @@ The accelerator OXBNN_5 achieves 1.0x times better fps than OXBNN_5
 
 ```
 
-
-
+### Bibtex
+```bash
+@INPROCEEDINGS{STONNE21,
+  author =       {Sairam Sri Vatsavai, Venkata Sai Praneeth Karempudi, and Ishan Thakkar},
+  title =        {An Optical XNOR-Bitcount Based Accelerator for
+Efficient Inference of Binary Neural Networks},
+  booktitle =    {2023  International Symposium on Quality Electronic Design (ISQED)}, 
+  year =         {2023},
+  volume =       {},
+  number =       {},
+  pages =        {},
+}
+```
 
 
 
