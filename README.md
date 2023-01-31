@@ -48,7 +48,7 @@ The below image shows OXBNN accelerator processing unit.
 │       launch.json
 │       settings.json
 │
-├───CNNModels - *Folder contains various CNN models available for performing simulations*
+├───CNNModels - *Folder contains various CNN models available for performing simulations. Script to generate model files ->(https://github.com/Sairam954/CNN_Model_Layer_Information_Generator)*
 │   │   DenseNet121.csv
 │   │   GoogLeNet.csv
 │   │   Inception_V3.csv
