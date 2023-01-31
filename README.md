@@ -9,6 +9,23 @@ This is a transaction-level, cycle-true python-based simulator for evaluation of
     git clone https://github.com/Sairam954/B_ONN_SIM.git
     python main.py
 
+### Bibtex
+
+Please cite us if you use B_ONN_SIM
+
+```bash
+@INPROCEEDINGS{OXBNN23,
+  author =       {Sairam Sri Vatsavai, Venkata Sai Praneeth Karempudi, and Ishan Thakkar},
+  title =        {An Optical XNOR-Bitcount Based Accelerator for
+Efficient Inference of Binary Neural Networks},
+  booktitle =    {2023  International Symposium on Quality Electronic Design (ISQED)}, 
+  year =         {2023},
+  volume =       {},
+  number =       {},
+  pages =        {},
+}
+```
+
 ### Video Tutorial
 [https://drive.google.com/file/d/1zyho10si1KASeOk_zuDW2v8DLXz-D04M/view?usp=share_link](https://youtu.be/X6yifdEB7xU)
 
@@ -148,19 +165,7 @@ The accelerator OXBNN_5 achieves 1.0x times better fps than OXBNN_5
 
 ```
 
-### Bibtex
-```bash
-@INPROCEEDINGS{OXBNN23,
-  author =       {Sairam Sri Vatsavai, Venkata Sai Praneeth Karempudi, and Ishan Thakkar},
-  title =        {An Optical XNOR-Bitcount Based Accelerator for
-Efficient Inference of Binary Neural Networks},
-  booktitle =    {2023  International Symposium on Quality Electronic Design (ISQED)}, 
-  year =         {2023},
-  volume =       {},
-  number =       {},
-  pages =        {},
-}
-```
+
 
 
 
