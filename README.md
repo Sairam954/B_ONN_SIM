@@ -146,7 +146,7 @@ After the simulations are completed, the results are stored in the form of a csv
 
 ![image](https://user-images.githubusercontent.com/23030293/215599495-6df0e14b-3bb4-4bd0-903d-8f9a3c619699.png)
 
-The performance metrics are calculated by using PeformanceMetrics/metrics.py, currently it provides the above values. Users can change the file to reflect their accelerator components energy and power paraments.  
+The performance metrics are calculated by using PeformanceMetrics/metrics.py, currently it provides the above values. Users can change the file to reflect their accelerator components energy and power parameters.  
 
 ### Evaluation Visualization:
 The visualization.py can take the generated simulation csv and plot barplot for the results. It also prints useful information in the console about the top two accelerators. 
