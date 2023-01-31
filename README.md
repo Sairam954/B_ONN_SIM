@@ -44,11 +44,8 @@ The below image shows OXBNN accelerator processing unit.
 │   visualization.py - *Plots the performance metrics like FPS, FPS/W etc of various accelerators on single barplot and also provides information of the best performing accelerator* 
 │   __init__.py
 │
-├───.vscode
-│       launch.json
-│       settings.json
-│
-├───CNNModels - *Folder contains various CNN models available for performing simulations. Script to generate model files ->(https://github.com/Sairam954/CNN_Model_Layer_Information_Generator)*
+| Script to generate model files ->(https://github.com/Sairam954/CNN_Model_Layer_Information_Generator)*
+├───CNNModels - *Folder contains various CNN models available for performing simulations. 
 │   │   DenseNet121.csv
 │   │   GoogLeNet.csv
 │   │   Inception_V3.csv
