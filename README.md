@@ -2,7 +2,7 @@
 
 # B_ONN_SIM (BINARY Optical Neural Network Simulator)
 
-This is a transaction-level, cycle-true python-based simulator for evaluation of Binary optical neural network accelerators for various Binary Neural Network models.  
+This is a transaction-level, event-driven python-based simulator for evaluation of Binary optical neural network accelerators for various Binary Neural Network models.  
 
 ### Installation and Execution
 
