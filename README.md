@@ -17,6 +17,7 @@ https://arxiv.org/abs/2302.06405
 Please cite us if you use B_ONN_SIM
 
 ```bash
+@misc{OXBNNISQED2023,
   doi = {10.48550/ARXIV.2302.06405},
   url = {https://arxiv.org/abs/2302.06405},
   author = {Vatsavai, Sairam Sri and Karempudi, Venkata Sai Praneeth and Thakkar, Ishan},
