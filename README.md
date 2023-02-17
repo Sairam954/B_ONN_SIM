@@ -2,7 +2,10 @@
 
 # B_ONN_SIM (BINARY Optical Neural Network Simulator)
 
-This is a transaction-level, event-driven python-based simulator for evaluation of Binary optical neural network accelerators for various Binary Neural Network models.  
+This is a transaction-level, event-driven python-based simulator for evaluation of Binary optical neural network accelerators for various Binary Neural Network models. 
+
+### ArXiv Preprint
+https://arxiv.org/abs/2302.06405
 
 ### Installation and Execution
 
@@ -14,16 +17,16 @@ This is a transaction-level, event-driven python-based simulator for evaluation 
 Please cite us if you use B_ONN_SIM
 
 ```bash
-@INPROCEEDINGS{OXBNN23,
-  author =       {Sairam Sri Vatsavai, Venkata Sai Praneeth Karempudi, and Ishan Thakkar},
-  title =        {An Optical XNOR-Bitcount Based Accelerator for
-Efficient Inference of Binary Neural Networks},
-  booktitle =    {2023  International Symposium on Quality Electronic Design (ISQED)}, 
-  year =         {2023},
-  volume =       {},
-  number =       {},
-  pages =        {},
+  doi = {10.48550/ARXIV.2302.06405},
+  url = {https://arxiv.org/abs/2302.06405},
+  author = {Vatsavai, Sairam Sri and Karempudi, Venkata Sai Praneeth and Thakkar, Ishan},
+  keywords = {Hardware Architecture (cs.AR), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {An Optical XNOR-Bitcount Based Accelerator for Efficient Inference of Binary Neural Networks},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International}
 }
+
 ```
 
 ### Video Tutorial
