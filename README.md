@@ -17,16 +17,16 @@ https://arxiv.org/abs/2302.06405
 Please cite us if you use B_ONN_SIM
 
 ```bash
-@misc{OXBNNISQED2023,
-  doi = {10.48550/ARXIV.2302.06405},
-  url = {https://arxiv.org/abs/2302.06405},
-  author = {Vatsavai, Sairam Sri and Karempudi, Venkata Sai Praneeth and Thakkar, Ishan},
-  keywords = {Hardware Architecture (cs.AR), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {An Optical XNOR-Bitcount Based Accelerator for Efficient Inference of Binary Neural Networks},
-  publisher = {arXiv},
-  year = {2023},
-  copyright = {Creative Commons Attribution 4.0 International}
-}
+
+@INPROCEEDINGS{OXBNNISQED2023,
+  author={Vatsavai, Sairam Sri and Sai Praneeth Karempudi, Venkata and Thakkar, Ishan},
+  booktitle={2023 24th International Symposium on Quality Electronic Design (ISQED)}, 
+  title={An Optical XNOR-Bitcount Based Accelerator for Efficient Inference of Binary Neural Networks}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/ISQED57927.2023.10129294}}
 
 ```
 
